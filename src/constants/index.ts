@@ -19,7 +19,7 @@ const listOfCommand = [
         isVerified: true,
         email: 'diniesn@gmail.com',
         phone: '+65 ******48',
-        nationality: 'Malaysian / SG PR',
+        nationality: 'Malaysian / Singapore PR',
       },
     ],
   },
