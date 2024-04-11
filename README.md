@@ -2,6 +2,9 @@
 
 This project was developed using React + Chakra UI
 
+### Preview
+https://github.com/diniesganesan/cv-terminal/assets/35025414/90152866-49a3-417b-8abc-cf140f9ca2d6
+
 ## Available Scripts
 
 In the project directory, you can run:
