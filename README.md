@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# View my cv via terminal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using React + Chakra UI
 
 ## Available Scripts
 
